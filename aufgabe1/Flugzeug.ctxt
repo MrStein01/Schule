@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=nummer\ name\ gesellschaft
+comment0.target=Flugzeug(int,\ java.lang.String,\ Gesellschaft)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Flugzeug\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getPlaetze()
+numComments=2

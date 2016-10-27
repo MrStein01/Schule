@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=flugzeug\ passagier
+comment0.target=Buchung(Flugzeug,\ Passagier)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Buchung\r\n
+comment1.params=passagier
+comment1.target=void\ platzBuchung(Passagier)
+numComments=2
